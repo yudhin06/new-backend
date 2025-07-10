@@ -30,7 +30,8 @@ app.add_middleware(
     allow_origins=[
         "https://studentcolla.netlify.app",
         "https://projectshiv.netlify.app",
-        "https://graceful-lolly-c287c1.netlify.app"
+        "https://graceful-lolly-c287c1.netlify.app",
+        "https://sch-yudhin.netlify.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
