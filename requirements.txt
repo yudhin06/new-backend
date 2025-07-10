@@ -2,4 +2,5 @@ fastapi
 uvicorn[standard]
 motor
 python-dotenv
-cloudinary 
+cloudinary
+passlib
